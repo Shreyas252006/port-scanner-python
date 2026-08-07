@@ -16,8 +16,11 @@ Technologies Used:
 Project Structure:
 
 port-scanner/
+
 ├── scanner_basic.py
+
 ├── README.md
+
 └── .gitignore
 
 How It Works:-
