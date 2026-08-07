@@ -13,12 +13,19 @@ Technologies Used:
 	- Git & GitHub
 	- Kali Linux
 
+
 Project Structure:
 
 port-scanner/
+
+├── Screenshots/
+
 ├── scanner_basic.py
+
 ├── README.md
+
 └── .gitignore
+
 
 How It Works:-
 
