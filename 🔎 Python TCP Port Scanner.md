@@ -1,4 +1,4 @@
-# 🔎 Python TCP Port Scanner
+# README.md
 
 > A beginner-friendly TCP port scanner built with Python sockets on Kali Linux to explore networking and cybersecurity fundamentals.
 
@@ -171,4 +171,7 @@ Security & Ethics: This project is for educational and authorized testing only. 
 
 Future Improvements: - Multithreaded scanning - Asynchronous scanning with "asyncio" - Service banner detection - Port range arguments - CLI interface with "argparse" - Desktop GUI - Web dashboard
 
-Author Shreyas Chavhan GitHub: [https://github.com/Shreyas252006](https://github.com/Shreyas252006)
+Author:
+Shreyas Chavhan
+GitHub: [https://github.com/Shreyas252006](https://github.com/Shreyas252006)
+LinkedIn: [www.linkedin.com/in/shreyas-p-chavhan]
